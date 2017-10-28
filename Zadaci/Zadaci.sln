@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCalculator", "ConsoleAppCalculator\ConsoleAppCalculator.csproj", "{3F77243E-640B-4212-A0B2-5BA5C0592840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculation", "Calculation\Calculation.csproj", "{E5D16D8A-E2F8-4CEC-AA5A-5EB42E954629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppCalculator", "WindowsFormsAppCalculator\WindowsFormsAppCalculator.csproj", "{19E562B2-B50B-474D-9AC7-2D9891507E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTimer", "ConsoleAppTimer\ConsoleAppTimer.csproj", "{24104F73-12A7-4416-9B8D-FDF90EADE3C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F77243E-640B-4212-A0B2-5BA5C0592840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F77243E-640B-4212-A0B2-5BA5C0592840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F77243E-640B-4212-A0B2-5BA5C0592840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F77243E-640B-4212-A0B2-5BA5C0592840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D16D8A-E2F8-4CEC-AA5A-5EB42E954629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D16D8A-E2F8-4CEC-AA5A-5EB42E954629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D16D8A-E2F8-4CEC-AA5A-5EB42E954629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D16D8A-E2F8-4CEC-AA5A-5EB42E954629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E562B2-B50B-474D-9AC7-2D9891507E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E562B2-B50B-474D-9AC7-2D9891507E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E562B2-B50B-474D-9AC7-2D9891507E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E562B2-B50B-474D-9AC7-2D9891507E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24104F73-12A7-4416-9B8D-FDF90EADE3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24104F73-12A7-4416-9B8D-FDF90EADE3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24104F73-12A7-4416-9B8D-FDF90EADE3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24104F73-12A7-4416-9B8D-FDF90EADE3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
