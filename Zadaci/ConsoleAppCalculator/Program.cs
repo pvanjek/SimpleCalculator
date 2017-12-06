@@ -20,7 +20,7 @@ namespace ConsoleAppCalculator
 
             Console.WriteLine("Unesite drugi broj: ");
             fDrugiBroj = Convert.ToSingle(Console.ReadLine());
-
+            //aa
             Console.WriteLine("Odaberite jednu od opcija: ");
             Console.WriteLine("1-Zbrajanje");
             Console.WriteLine("2-Množenje");
